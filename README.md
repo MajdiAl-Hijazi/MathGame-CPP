@@ -44,10 +44,23 @@ This project was developed for the course **Algorithms & Problem-Solving – Lev
 8. At the end, the program displays the total results, including number of correct and wrong answers, level, operator type, and pass/fail.
 
 ---
+<div align="center">
 
-## Arabic Short Version
+<h2>Majdi Al-Hijazi</h2>
+<p>💻 Computer Information Systems (CIS) Student</p>
 
-هذا الريبو يحتوي على لعبتين **Math Quiz Game** بلغة C++.  
-- الملف الأول يستخدم **struct واحد** لتخزين معلومات اللعبة ويعرض النتائج مع رموز تعبيرية (Pass/Fail/Draw).  
-- الملف الثاني منظم أكثر باستخدام **structs متعددة** لكل سؤال ولكل اختبار، ويعرض الإجابة الصحيحة إذا أخطأت، مع تتبع كل الأسئلة.  
-يمكنك تشغيل أي ملف، اختيار عدد الأسئلة، مستوى الصعوبة، ونوع العمليات، والإجابة على الأسئلة لمعرفة النتيجة النهائية.
+<br>
+
+<a href="https://github.com/MajdiAl-Hijazi" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/majdi-alhijazi-274947334" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+</a>
+
+<a href="mailto:majdialhijazi@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+
+</div>
+
